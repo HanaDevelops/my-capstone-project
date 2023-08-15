@@ -23,7 +23,7 @@ function Menu() {
           <Menucard
             imageUrl={item2}
             title="Burger"
-            price="18.99"
+            price="20.99"
             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum laoreet pharetra."
           />
         </section>
